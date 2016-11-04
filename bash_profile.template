@@ -1,0 +1,6 @@
+export JAVA_HOME=`/usr/libexec/java_home -v 1.8`
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+
+alias .2='cd ../../'
+alias .3='cd ../../../'
+alias .4='cd ../../../../'
